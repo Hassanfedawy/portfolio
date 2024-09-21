@@ -14,10 +14,10 @@ const ProjectCard: React.FC<{ project: Project }> = ({ project }) => {
       initial={{ opacity: 0, scale: 0.9 }}
       animate={{ opacity: 1, scale: 1 }}
       transition={{ duration: 2 }}
-      className="project-card bg-white rounded-lg shadow-md p-4"
+      className="project-card bg-white dark:bg-gray-600 rounded-lg shadow-md p-4"
     >
-      <h3 className="text-xl font-semibold text-gray-800 dark:text-gray-200">{project.title}</h3>
-      <p className="text-gray-600 dark:text-gray-400 mt-2">{project.description}</p>
+      <h3 className="text-xl font-semibold text-gray-800 dark:text-gray-50">{project.title}</h3>
+      <p className="text-gray-800 dark:text-gray-200 mt-2">{project.description}</p>
       <div className="mt-4">
         <a
           href={project.link}

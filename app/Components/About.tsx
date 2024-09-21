@@ -10,7 +10,7 @@ function About() {
         </p>
         <div className="mt-8">
           <h3 className="text-2xl md:text-3xl font-semibold text-gray-800 dark:text-gray-200">Skills & Technologies</h3>
-          <ul className="flex flex-wrap justify-center space-x-4 mt-4">
+          <ul className="flex flex-wrap text-gray-800 dark:text-gray-200 justify-center space-x-4 mt-4">
             <li className="bg-gray-200 dark:bg-gray-700 px-3 py-1 rounded mb-2">HTML</li>
             <li className="bg-gray-200 dark:bg-gray-700 px-3 py-1 rounded mb-2">CSS</li>
             <li className="bg-gray-200 dark:bg-gray-700 px-3 py-1 rounded mb-2">JavaScript</li>
