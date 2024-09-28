@@ -20,7 +20,7 @@ const projectsData = [
     Vercel
     `,
     link: "https://countries-app-liart-iota.vercel.app/",
-    github:"https://github.com/Hassanfedawy/countries_app",
+    github: "https://github.com/Hassanfedawy/countries_app",
   },
   {
     title: "Amazon Clone",
@@ -34,11 +34,11 @@ const projectsData = [
     Framer Motion
     Vercel`,
     link: "https://amazonclone-rosy-omega.vercel.app/",
-    github:"https://github.com/Hassanfedawy/amazonclone",
+    github: "https://github.com/Hassanfedawy/amazonclone",
   },
   {
     title: "Tip Calculator App",
-    description:` A simple and intuitive tip calculator that allows users to easily calculate tips based on their bill amount and preferred tip percentage.
+    description: `A simple and intuitive tip calculator that allows users to easily calculate tips based on their bill amount and preferred tip percentage.
 
     Technologies Used
     HTML
@@ -47,22 +47,46 @@ const projectsData = [
     GitHub Pages
     `,
     link: "https://hassanfedawy.github.io/tip-calculator-app/",
-    github:"https://github.com/Hassanfedawy/tip-calculator-app",
+    github: "https://github.com/Hassanfedawy/tip-calculator-app",
   },
   {
     title: `Age Calculator App`,
-    description: `
-    An easy-to-use age calculator that helps users determine their exact age in years, months, and days based on their birth date.
-    
+    description: `An easy-to-use age calculator that helps users determine their exact age in years, months, and days based on their birth date.
+
     Technologies Used
     HTML
     CSS
     JavaScript
     GitHub Pages`,
     link: "https://hassanfedawy.github.io/age-calculator-app/",
-    github:"https://github.com/Hassanfedawy/age-calculator-app",
+    github: "https://github.com/Hassanfedawy/age-calculator-app",
   },
-  
+  {
+    title: "Airbnb Clone",
+    description: `A responsive Airbnb clone that allows users to browse listings, filter properties, and view detailed information about each property. The app mimics the core features of the Airbnb platform, providing a clean user experience.
+
+    Technologies Used
+    Next.js
+    Tailwind CSS
+    TypeScript
+    Framer Motion
+    Vercel`,
+    link: "https://air-bnb-clone-rose.vercel.app/",
+    github: "https://github.com/Hassanfedawy/air-bnb_clone",
+  },
+  {
+    title: "Legacy Basketball Academy",
+    description: `A website for a basketball and fitness academy, currently under development. It aims to provide detailed information about the academy’s programs, trainers, and services. The design focuses on a vibrant, user-friendly interface.
+
+    Technologies Used
+    Next.js
+    Tailwind CSS
+    TypeScript
+    Framer Motion
+    Vercel`,
+    link: "https://legacy-basketball-academy.vercel.app/",
+    github: "https://github.com/Hassanfedawy/Legacy-Basketball-Academy",
+  },
 ];
 
 
